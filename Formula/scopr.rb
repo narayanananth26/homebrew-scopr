@@ -1,8 +1,8 @@
 class Scopr < Formula
   desc "Launch Claude Code scoped to chosen repositories"
   homepage "https://github.com/narayanananth26/scopr"
-  url "https://github.com/narayanananth26/scopr/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "55eace6f92e7037911901810e6e0b213e2abc5071361f9bd37c85fe515cfc622"
+  url "https://github.com/narayanananth26/scopr/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e6809a3e32d10eff20ba9d59edeeaef2739da79340e4ad807fb9d66902676201"
   license "MIT"
 
   depends_on "go" => :build
